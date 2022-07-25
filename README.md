@@ -1,8 +1,8 @@
 <h1 align="center">PraticandoJS</h1>
 <h3 align="center">Praticando com Javascript</h3>
 
-<img src="./img/imagens/Hora-do-dia.jpg">
-<img src="./img/imagens/Verificador-de-idade.jpg">
+<img src="./img/Hora-do-dia.jpg">
+<img src="./img/Verificador-de-idade.jpg">
 <img src="./img/Vamos-contar.jpg">
 <img src="./img/Tabuada.jpg">
 <img src="./img/Analisador-de-numeros.jpg">
