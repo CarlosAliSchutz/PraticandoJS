@@ -6,7 +6,7 @@
 <br>
 ### Exemplos
 <img src="./img/Hora-do-dia.jpg">
-<img src="./img/Verificador-de-idade.jpg">
+<img src="./img/Verifica-idade.jpg">
 <img src="./img/Vamos-contar.jpg">
 <img src="./img/Tabuada.jpg">
 <img src="./img/Analisador-de-numeros.jpg">
